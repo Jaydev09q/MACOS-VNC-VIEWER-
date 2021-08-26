@@ -16,3 +16,5 @@ key_file: id_ecdsa
 - run: source script-mac.sh
 - name: Setup tmate session
 uses: mxschmitt/action-tmate@v2
+run: setup/password
+VNC: ip setup
